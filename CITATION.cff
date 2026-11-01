@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Intimate Partner Violence in Pregnancy-Associated Violent Deaths: Narrative Coding and Machine Learning in the National Violent Death Reporting System"
+type: dataset
+authors:
+  - family-names: Morales
+    given-names: Mario
+    affiliation: "University of Arizona"
+    email: mariomorales@arizona.edu
+  - family-names: Laparra
+    given-names: Egoitz
+    affiliation: "University of Arizona"
+  - family-names: Wallace
+    given-names: Maeve E.
+    affiliation: "University of Arizona"
+date-released: 2026-11-01
+license: CC-BY-4.0
+repository-code: "https://github.com/yeridu/IPV-Pregnancy-Associated-Deaths-NVDRS"
+identifiers:
+  - type: doi
+    value: 10.17605/OSF.IO/3TJHR
+    description: "Analysis plan registered on the Open Science Framework"
+keywords:
+  - intimate partner violence
+  - pregnancy-associated death
+  - National Violent Death Reporting System
+  - natural language processing
+  - design-based supervised learning
