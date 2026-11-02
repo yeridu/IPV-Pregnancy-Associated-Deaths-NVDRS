@@ -436,7 +436,7 @@ s28.2 (empieza en 32:40). En todas las maneras juntas, las mismas circunstancias
 
 s28.3 (empieza en 33:10). No leemos estos valores combinados como un hallazgo sobre las mujeres. Los capturistas registraron las circunstancias de salud mental con más frecuencia en los suicidios que en los homicidios, y los homicidios concentraron la mayoría de las muertes relacionadas con la violencia de pareja. Al juntar las maneras de muerte, una circunstancia de salud mental señalaba sobre todo un suicidio, así que la razón de momios quedó por debajo de 1. Es el patrón conocido como paradoja de Simpson. Hernán, Clayton y Keiding mostraron que esta paradoja desaparece cuando el análisis sigue la estructura causal de los datos, y Knol y VanderWeele recomendaron reportar las asociaciones dentro de cada grupo.
 
-s28.4 (empieza en 33:55). Quedan dos salvedades. Los problemas con otras sustancias no se modelaron dentro de cada manera de muerte, así que no sabemos cuánto de esa asociación también vino de mezclar las maneras de muerte, y las asociaciones dentro de una manera de muerte siguen siendo descriptivas, porque la violencia de pareja puede influir en que una muerte sea un homicidio o un suicidio. No pudo mostrarse ningún modelo solo de homicidios, y las circunstancias legales no pudieron reportarse porque algunas celdas tenían muy pocas muertes.
+s28.4 (empieza en 33:55). Quedan dos salvedades. Los problemas con otras sustancias no pudieron estimarse de forma confiable dentro de cada manera de muerte, así que no sabemos cuánto de esa asociación también vino de mezclar las maneras de muerte, y las asociaciones dentro de una manera de muerte siguen siendo descriptivas, porque la violencia de pareja puede influir en que una muerte sea un homicidio o un suicidio. No pudo mostrarse ningún modelo solo de homicidios, y las circunstancias legales no pudieron reportarse porque algunas celdas tenían muy pocas muertes.
 
 Fuente en pantalla: Manuscrito, Resultados, Discusión y Tabla 5
 
@@ -448,13 +448,13 @@ Citas en pantalla: Hernán, Clayton y Keiding, 2011; Knol y VanderWeele, 2012
 
 *Qué significa*
 
-s29.1 (empieza en 34:29). Encontramos que la violencia de pareja íntima estuvo relacionada con casi la mitad de estas muertes, el 45.8 por ciento de las que tenían circunstancias conocidas.
+s29.1 (empieza en 34:31). Encontramos que la violencia de pareja íntima estuvo relacionada con casi la mitad de estas muertes, el 45.8 por ciento de las que tenían circunstancias conocidas.
 
-s29.2 (empieza en 34:42). Los capturistas registraron violencia de pareja en el 61.8 por ciento de los homicidios, pero el manual de codificación dejaba el campo casi vacío para los suicidios, y nuestra lectura la encontró en al menos el 22 por ciento de los suicidios. En nuestra muestra de validación, el campo estructurado no registró aproximadamente una de cada cinco muertes que leímos como relacionadas. Kafka y colaboradores también encontraron violencia de pareja en suicidios que los campos estructurados no registraban.
+s29.2 (empieza en 34:43). Los capturistas registraron violencia de pareja en el 61.8 por ciento de los homicidios, pero el manual de codificación dejaba el campo casi vacío para los suicidios, y nuestra lectura la encontró en al menos el 22 por ciento de los suicidios. En nuestra muestra de validación, el campo estructurado no registró aproximadamente una de cada cinco muertes que leímos como relacionadas. Kafka y colaboradores también encontraron violencia de pareja en suicidios que los campos estructurados no registraban.
 
-s29.3 (empieza en 35:16). Nuestros hallazgos extendieron trabajos anteriores al embarazo y al posparto, y a todas las maneras de muerte violenta en una sola cohorte, y sugirieron que los conteos de muertes maternas relacionadas con la violencia de pareja que dependían solo de campos estructurados eran subestimaciones.
+s29.3 (empieza en 35:17). Nuestros hallazgos extendieron trabajos anteriores al embarazo y al posparto, y a todas las maneras de muerte violenta en una sola cohorte, y sugirieron que los conteos de muertes maternas relacionadas con la violencia de pareja que dependían solo de campos estructurados eran subestimaciones.
 
-s29.4 (empieza en 35:34). El clasificador etiquetó las 1,180 muertes y, con la corrección basada en el diseño, produjo una estimación casi tan precisa como la nuestra. El enfoque basado en el diseño importó tanto como el clasificador, porque permitió que nuestras lecturas corrigieran los errores del clasificador en lugar de heredarlos.
+s29.4 (empieza en 35:36). El clasificador etiquetó las 1,180 muertes y, con la corrección basada en el diseño, produjo una estimación casi tan precisa como la nuestra. El enfoque basado en el diseño importó tanto como el clasificador, porque permitió que nuestras lecturas corrigieran los errores del clasificador en lugar de heredarlos.
 
 Fuente en pantalla: Manuscrito, Discusión
 
@@ -464,11 +464,11 @@ Citas en pantalla: Kafka y colaboradores, 2024
 
 *Qué significa para la prevención*
 
-s30.1 (empieza en 35:56). La violencia de pareja fue más común entre las mujeres que murieron embarazadas, dos tercios de las cuales murieron por homicidio. Para muchas mujeres, el embarazo fue un periodo de contacto regular con la atención prenatal, y en 2025 el Grupo de Trabajo de Servicios Preventivos de Estados Unidos recomendó que los profesionales clínicos detecten la violencia de pareja íntima en mujeres en edad reproductiva, incluidas las que están embarazadas y en posparto.
+s30.1 (empieza en 35:57). La violencia de pareja fue más común entre las mujeres que murieron embarazadas, dos tercios de las cuales murieron por homicidio. Para muchas mujeres, el embarazo fue un periodo de contacto regular con la atención prenatal, y en 2025 el Grupo de Trabajo de Servicios Preventivos de Estados Unidos recomendó que los profesionales clínicos detecten la violencia de pareja íntima en mujeres en edad reproductiva, incluidas las que están embarazadas y en posparto.
 
-s30.2 (empieza en 36:26). Las muertes con un opioide estuvieron menos veces relacionadas con la violencia de pareja, 24 por ciento. Pero el 85 por ciento de las sobredosis de drogas de intención indeterminada involucraron un opioide, y solo el 26 por ciento de las muertes de esa manera se relacionaron, muy por debajo del 45.8 por ciento general, así que la diferencia sigue en gran parte a la manera de muerte en que se clasificaron la mayoría de las muertes por opioides. Aun así, una de cada cuatro muertes con un opioide se relacionó con la violencia de pareja. Stone y Rothman encontraron que la violencia de pareja es frecuente entre quienes usan opioides, y Drew y colaboradores mostraron que la sobredosis de drogas se está volviendo la principal causa de muerte durante el embarazo y el posparto, así que la detección de la violencia de pareja podría ser parte de la prevención de sobredosis.
+s30.2 (empieza en 36:27). Las muertes con un opioide estuvieron menos veces relacionadas con la violencia de pareja, 24 por ciento. Pero el 85 por ciento de las sobredosis de drogas de intención indeterminada involucraron un opioide, y solo el 26 por ciento de las muertes de esa manera se relacionaron, muy por debajo del 45.8 por ciento general, así que la diferencia sigue en gran parte a la manera de muerte en que se clasificaron la mayoría de las muertes por opioides. Aun así, una de cada cuatro muertes con un opioide se relacionó con la violencia de pareja. Stone y Rothman encontraron que la violencia de pareja es frecuente entre quienes usan opioides, y Drew y colaboradores mostraron que la sobredosis de drogas se está volviendo la principal causa de muerte durante el embarazo y el posparto, así que la detección de la violencia de pareja podría ser parte de la prevención de sobredosis.
 
-s30.3 (empieza en 37:22). Las razones de momios menores que 1 al juntar todas las maneras de muerte vinieron de mezclar homicidios y suicidios, y no son evidencia de un efecto protector. Entre los suicidios y las muertes de intención indeterminada, un diagnóstico de salud mental, el estado de ánimo deprimido o el tratamiento no señalaron una menor probabilidad de que la muerte estuviera relacionada con la violencia de pareja.
+s30.3 (empieza en 37:24). Las razones de momios menores que 1 al juntar todas las maneras de muerte vinieron de mezclar homicidios y suicidios, y no son evidencia de un efecto protector. Entre los suicidios y las muertes de intención indeterminada, un diagnóstico de salud mental, el estado de ánimo deprimido o el tratamiento no señalaron una menor probabilidad de que la muerte estuviera relacionada con la violencia de pareja.
 
 Fuente en pantalla: Manuscrito, Discusión y Tabla 1; Suplemento 1, eTabla 2
 
@@ -478,19 +478,19 @@ Citas en pantalla: Grupo de Trabajo de Servicios Preventivos de Estados Unidos, 
 
 *Lo que no establece*
 
-s31.1 (empieza en 37:49). Nombramos nuestros límites abiertamente. Primero, la casilla de embarazo no registró el 38.2 por ciento de los embarazos confirmados en un estudio de validación de cuatro estados de Catalano y colaboradores, así que nuestra cohorte no incluyó todas las muertes violentas asociadas al embarazo, y no se sabía cómo afectó esto a la proporción.
+s31.1 (empieza en 37:50). Nombramos nuestros límites abiertamente. Primero, la casilla de embarazo no registró el 38.2 por ciento de los embarazos confirmados en un estudio de validación de cuatro estados de Catalano y colaboradores, así que nuestra cohorte no incluyó todas las muertes violentas asociadas al embarazo, y no se sabía cómo afectó esto a la proporción.
 
-s31.2 (empieza en 38:12). Segundo, las narrativas describían la violencia de pareja solo cuando los investigadores se enteraban de ella y la escribían, así que nuestra estimación era más probablemente una subestimación que una sobreestimación.
+s31.2 (empieza en 38:14). Segundo, las narrativas describían la violencia de pareja solo cuando los investigadores se enteraban de ella y la escribían, así que nuestra estimación era más probablemente una subestimación que una sobreestimación.
 
-s31.3 (empieza en 38:27). Tercero, el acuerdo entre nuestras dos lecturas no alcanzó nuestra meta, aunque contar las lecturas inciertas como relacionadas cambió la estimación en menos de 3 puntos porcentuales.
+s31.3 (empieza en 38:28). Tercero, el acuerdo entre nuestras dos lecturas no alcanzó nuestra meta, aunque contar las lecturas inciertas como relacionadas cambió la estimación en menos de 3 puntos porcentuales.
 
-s31.4 (empieza en 38:40). Cuarto, las 211 muertes sin circunstancias conocidas quedaron fuera de la estimación principal, que por eso describe las muertes con circunstancias conocidas.
+s31.4 (empieza en 38:41). Cuarto, las 211 muertes sin circunstancias conocidas quedaron fuera de la estimación principal, que por eso describe las muertes con circunstancias conocidas.
 
-s31.5 (empieza en 38:52). Quinto, proteger la confidencialidad impidió estimaciones para todos los homicidios, para todos los suicidios y para los grupos raciales y étnicos, lo que limitó lo que pudimos decir sobre las disparidades. Con una cohorte de este tamaño, las reglas que protegen a las personas de estos registros hicieron que muchos de los desgloses y análisis de sensibilidad que planeamos no pudieran publicarse, una lección que orientó el diseño de nuestro siguiente estudio.
+s31.5 (empieza en 38:53). Quinto, proteger la confidencialidad impidió estimaciones para todos los homicidios, para todos los suicidios y para los grupos raciales y étnicos, lo que limitó lo que pudimos decir sobre las disparidades. Con una cohorte de este tamaño, las reglas que protegen a las personas de estos registros hicieron que muchos de los desgloses y análisis de sensibilidad que planeamos no pudieran publicarse, una lección que orientó el diseño de nuestro siguiente estudio.
 
-s31.6 (empieza en 39:21). Sexto, los valores individuales de la prueba de 2023 se reservaron, y las métricas de validación cruzada describieron el procedimiento de construcción del modelo y no el modelo único bajo llave.
+s31.6 (empieza en 39:22). Sexto, los valores individuales de la prueba de 2023 se reservaron, y las métricas de validación cruzada describieron el procedimiento de construcción del modelo y no el modelo único bajo llave.
 
-s31.7 (empieza en 39:35). Por último, un diseño transversal limitado a muertes solo permitió asociaciones descriptivas.
+s31.7 (empieza en 39:36). Por último, un diseño transversal limitado a muertes solo permitió asociaciones descriptivas.
 
 Fuente en pantalla: Manuscrito, Limitaciones
 
@@ -500,13 +500,13 @@ Fuente en pantalla: Manuscrito, Limitaciones
 
 *Qué sigue*
 
-s32.1 (empieza en 39:43). Preespecificamos una extensión que agregaría los embarazos identificados en las narrativas de fallecidas cuya casilla no se marcó. Aún no estaba completa cuando terminamos este análisis, y planeamos reportarla por separado.
+s32.1 (empieza en 39:44). Preespecificamos una extensión que agregaría los embarazos identificados en las narrativas de fallecidas cuya casilla no se marcó. Aún no estaba completa cuando terminamos este análisis, y planeamos reportarla por separado.
 
-s32.2 (empieza en 39:58). Esa pregunta llevó a nuestro siguiente estudio. En una propuesta a los Institutos Nacionales de Salud, planeamos medir cuántos embarazos no registra la casilla entre las mujeres fallecidas en edad reproductiva, leyendo el mismo tipo de narrativas, y probar el clasificador de una mejor manera.
+s32.2 (empieza en 40:00). Esa pregunta llevó a nuestro siguiente estudio. En una propuesta a los Institutos Nacionales de Salud, planeamos medir cuántos embarazos no registra la casilla entre las mujeres fallecidas en edad reproductiva, leyendo el mismo tipo de narrativas, y probar el clasificador de una mejor manera.
 
-s32.3 (empieza en 40:19). Antes de calcular cualquier estimación, registramos nuestro plan de análisis en Open Science Framework, y enumeramos cada desviación de él en el suplemento de nuestro manuscrito.
+s32.3 (empieza en 40:20). Antes de calcular cualquier estimación, registramos nuestro plan de análisis en Open Science Framework, y enumeramos cada desviación de él en el suplemento de nuestro manuscrito.
 
-s32.4 (empieza en 40:31). Planeamos depositar el código del análisis en el repositorio del estudio en GitHub con datos de ejemplo sintéticos, porque los registros de NVDRS solo estaban disponibles para investigadores aprobados mediante un acuerdo de intercambio de datos, y enlazar ahí el manuscrito una vez que se publicara.
+s32.4 (empieza en 40:32). Planeamos depositar el código del análisis en el repositorio del estudio en GitHub con datos de ejemplo sintéticos, porque los registros de NVDRS solo estaban disponibles para investigadores aprobados mediante un acuerdo de intercambio de datos, y enlazar ahí el manuscrito una vez que se publicara.
 
 Fuente en pantalla: Manuscrito, Métodos, Limitaciones y Declaración de Intercambio de Datos; Suplemento 1, eTabla 1; propuesta R03 a los NIH, 2026
 
@@ -514,13 +514,13 @@ Fuente en pantalla: Manuscrito, Métodos, Limitaciones y Declaración de Interca
 
 *Qué sigue: una mejor prueba*
 
-s32b.1 (empieza en 40:50). En este estudio, reservamos las muertes de 2023 para una sola prueba final. Pero ese año tenía pocas muertes codificadas, así que sus resultados individuales ni siquiera pudieron mostrarse. En nuestro siguiente estudio, cambiamos el plan.
+s32b.1 (empieza en 40:52). En este estudio, reservamos las muertes de 2023 para una sola prueba final. Pero ese año tenía pocas muertes codificadas, así que sus resultados individuales ni siquiera pudieron mostrarse. En nuestro siguiente estudio, cambiamos el plan.
 
-s32b.2 (empieza en 41:09). Planeamos dividir todos los registros codificados en pliegues, entrenar el clasificador con todos los pliegues menos uno, probarlo con el que quede fuera y rotar, para que cada registro codificado sirva una vez como caso de prueba. Cada decisión de la que depende el clasificador se tomaría dentro de los pliegues de entrenamiento, nunca mirando los resultados de la prueba.
+s32b.2 (empieza en 41:11). Planeamos dividir todos los registros codificados en pliegues, entrenar el clasificador con todos los pliegues menos uno, probarlo con el que quede fuera y rotar, para que cada registro codificado sirva una vez como caso de prueba. Cada decisión de la que depende el clasificador se tomaría dentro de los pliegues de entrenamiento, nunca mirando los resultados de la prueba.
 
-s32b.3 (empieza en 41:34). Como los registros codificados forman una muestra estratificada, planeamos ponderar los resultados de la prueba por la probabilidad de cada registro de ser leído, para que el desempeño reportado describa todos los registros y no solo los que leímos.
+s32b.3 (empieza en 41:35). Como los registros codificados forman una muestra estratificada, planeamos ponderar los resultados de la prueba por la probabilidad de cada registro de ser leído, para que el desempeño reportado describa todos los registros y no solo los que leímos.
 
-s32b.4 (empieza en 41:50). Y como en cada grupo de comparación caen pocos casos, planeamos especificar tres comparaciones de antemano, describir el resto y reportar una comparación como indeterminada cuando los datos no la sostengan.
+s32b.4 (empieza en 41:52). Y como en cada grupo de comparación caen pocos casos, planeamos especificar tres comparaciones de antemano, describir el resto y reportar una comparación como indeterminada cuando los datos no la sostengan.
 
 Fuente en pantalla: Propuesta R03 a los Institutos Nacionales de Salud, Estrategia de Investigación, 2026
 
@@ -528,7 +528,7 @@ Fuente en pantalla: Propuesta R03 a los Institutos Nacionales de Salud, Estrateg
 
 *Referencias*
 
-s32r.1 (empieza en 42:05). Aquí y en la siguiente pantalla aparecen los estudios que citamos en este video, con sus referencias completas en su idioma original.
+s32r.1 (empieza en 42:06). Aquí y en la siguiente pantalla aparecen los estudios que citamos en este video, con sus referencias completas en su idioma original.
 
 Fuente en pantalla: Referencias completas, en su idioma original, con el DOI cuando existe
 
@@ -536,7 +536,7 @@ Fuente en pantalla: Referencias completas, en su idioma original, con el DOI cua
 
 *Referencias*
 
-s32s.1 (empieza en 42:14). La lista de referencias continúa aquí.
+s32s.1 (empieza en 42:16). La lista de referencias continúa aquí.
 
 Fuente en pantalla: Referencias completas, en su idioma original, con el DOI cuando existe
 
@@ -544,10 +544,10 @@ Fuente en pantalla: Referencias completas, en su idioma original, con el DOI cua
 
 *Créditos*
 
-s33.1 (empieza en 42:18). Este estudio lo realizaron Mario Morales, Egoitz Laparra y Maeve Wallace, en la Universidad de Arizona.
+s33.1 (empieza en 42:20). Este estudio lo realizaron Mario Morales, Egoitz Laparra y Maeve Wallace, en la Universidad de Arizona.
 
-s33.2 (empieza en 42:27). Usamos la base de datos de acceso restringido de NVDRS, obtenida de los Centros para el Control y la Prevención de Enfermedades mediante un acuerdo de intercambio de datos. La Junta de Revisión Institucional de la Universidad de Arizona determinó que el análisis no era investigación con seres humanos.
+s33.2 (empieza en 42:28). Usamos la base de datos de acceso restringido de NVDRS, obtenida de los Centros para el Control y la Prevención de Enfermedades mediante un acuerdo de intercambio de datos. La Junta de Revisión Institucional de la Universidad de Arizona determinó que el análisis no era investigación con seres humanos.
 
-s33.3 (empieza en 42:47). El trabajo recibió apoyo del Eunice Kennedy Shriver National Institute of Child Health and Human Development, subvención 2R01HD096070, con la Dra. Wallace como investigadora principal. Gracias por ver este video.
+s33.3 (empieza en 42:49). El trabajo recibió apoyo del Eunice Kennedy Shriver National Institute of Child Health and Human Development, subvención 2R01HD096070, con la Dra. Wallace como investigadora principal. Gracias por ver este video.
 
 Fuente en pantalla: Manuscrito, portada e información del artículo

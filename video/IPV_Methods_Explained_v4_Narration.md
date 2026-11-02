@@ -436,7 +436,7 @@ s28.2 (starts at 30:51). Across all manners together, the same circumstances loo
 
 s28.3 (starts at 31:19). We do not read these pooled values as a finding about women. Abstractors recorded mental health circumstances more often in suicides than in homicides, and homicides accounted for most deaths related to partner violence. Pooled together, a mental health circumstance mostly marked a suicide, so the odds ratio fell below 1. This is the pattern known as Simpson's paradox, which Hernan, Clayton, and Keiding showed disappears when the analysis follows the causal structure of the data, and Knol and VanderWeele recommended reporting associations within each group.
 
-s28.4 (starts at 32:00). Two caveats remain. Other substance problems were not modeled within manners of death, so we cannot tell how much of that association also came from mixing manners, and associations within a manner are still descriptive, because partner violence can itself shape whether a death is a homicide or a suicide. No model of homicides alone could be shown, and the legal circumstances could not be reported because some cells held too few deaths.
+s28.4 (starts at 32:00). Two caveats remain. Other substance problems could not be estimated reliably within manners of death, so we cannot tell how much of that association also came from mixing manners, and associations within a manner are still descriptive, because partner violence can itself shape whether a death is a homicide or a suicide. No model of homicides alone could be shown, and the legal circumstances could not be reported because some cells held too few deaths.
 
 Source line on screen: Manuscript, Results, Discussion and Table 5
 
@@ -448,13 +448,13 @@ Citations on screen: Hernan, Clayton and Keiding, 2011; Knol and VanderWeele, 20
 
 *What it means*
 
-s29.1 (starts at 32:31). We found that intimate partner violence was related to nearly half of these deaths, 45.8 percent of those with known circumstances.
+s29.1 (starts at 32:33). We found that intimate partner violence was related to nearly half of these deaths, 45.8 percent of those with known circumstances.
 
-s29.2 (starts at 32:42). Abstractors recorded partner violence in 61.8 percent of homicides, but the coding manual left the field nearly empty for suicides, and our reading found it in at least 22 percent of suicides. In our validation sample, the structured field missed roughly one in five deaths that we read as related. Kafka and colleagues likewise found partner violence in suicides that the structured fields did not record.
+s29.2 (starts at 32:43). Abstractors recorded partner violence in 61.8 percent of homicides, but the coding manual left the field nearly empty for suicides, and our reading found it in at least 22 percent of suicides. In our validation sample, the structured field missed roughly one in five deaths that we read as related. Kafka and colleagues likewise found partner violence in suicides that the structured fields did not record.
 
-s29.3 (starts at 33:13). Our findings extended earlier work to pregnancy and the postpartum period and to all manners of violent death in a single cohort, and they suggested that counts of maternal deaths related to partner violence that relied on structured fields alone were underestimates.
+s29.3 (starts at 33:14). Our findings extended earlier work to pregnancy and the postpartum period and to all manners of violent death in a single cohort, and they suggested that counts of maternal deaths related to partner violence that relied on structured fields alone were underestimates.
 
-s29.4 (starts at 33:32). The classifier labeled all 1,180 deaths and, through the design-based correction, produced an estimate about as precise as our own. The design-based approach mattered as much as the classifier, because it let our readings correct the classifier's errors rather than inherit them.
+s29.4 (starts at 33:33). The classifier labeled all 1,180 deaths and, through the design-based correction, produced an estimate about as precise as our own. The design-based approach mattered as much as the classifier, because it let our readings correct the classifier's errors rather than inherit them.
 
 Source line on screen: Manuscript, Discussion
 
@@ -464,11 +464,11 @@ Citations on screen: Kafka and colleagues, 2024
 
 *What it means for prevention*
 
-s30.1 (starts at 33:53). Partner violence was most common among women who died while pregnant, two-thirds of whom died by homicide. For many women, pregnancy was a period of regular contact with prenatal care, and in 2025 the US Preventive Services Task Force recommended that clinicians screen women of reproductive age, including those who are pregnant and postpartum, for intimate partner violence.
+s30.1 (starts at 33:54). Partner violence was most common among women who died while pregnant, two-thirds of whom died by homicide. For many women, pregnancy was a period of regular contact with prenatal care, and in 2025 the US Preventive Services Task Force recommended that clinicians screen women of reproductive age, including those who are pregnant and postpartum, for intimate partner violence.
 
-s30.2 (starts at 34:21). Deaths with an opioid were less often related to partner violence, 24 percent. But 85 percent of the drug overdose deaths of undetermined intent involved an opioid, and only 26 percent of deaths of that manner were related, well below the 45.8 percent overall, so the difference largely follows the manner of death under which most opioid deaths were classified. Even so, one in four deaths with an opioid was related to partner violence. Stone and Rothman found partner violence frequent among people who use opioids, and Drew and colleagues showed drug overdose emerging as the leading cause of death during pregnancy and the postpartum period, so screening for partner violence could be part of overdose prevention.
+s30.2 (starts at 34:22). Deaths with an opioid were less often related to partner violence, 24 percent. But 85 percent of the drug overdose deaths of undetermined intent involved an opioid, and only 26 percent of deaths of that manner were related, well below the 45.8 percent overall, so the difference largely follows the manner of death under which most opioid deaths were classified. Even so, one in four deaths with an opioid was related to partner violence. Stone and Rothman found partner violence frequent among people who use opioids, and Drew and colleagues showed drug overdose emerging as the leading cause of death during pregnancy and the postpartum period, so screening for partner violence could be part of overdose prevention.
 
-s30.3 (starts at 35:13). The odds ratios below 1 with all manners pooled came from mixing homicides and suicides, and they offer no evidence of protection. Within suicides and deaths of undetermined intent, a mental health diagnosis, depressed mood, or treatment did not signal a lower chance that a death was related to partner violence.
+s30.3 (starts at 35:14). The odds ratios below 1 with all manners pooled came from mixing homicides and suicides, and they offer no evidence of protection. Within suicides and deaths of undetermined intent, a mental health diagnosis, depressed mood, or treatment did not signal a lower chance that a death was related to partner violence.
 
 Source line on screen: Manuscript, Discussion and Table 1; Supplement 1, eTable 2
 
@@ -478,19 +478,19 @@ Citations on screen: US Preventive Services Task Force, 2025; Stone and Rothman,
 
 *What it does not establish*
 
-s31.1 (starts at 35:36). We named our limits openly. First, the pregnancy checkbox missed 38.2 percent of confirmed pregnancies in a four-state validation study by Catalano and colleagues, so our cohort did not include every pregnancy-associated violent death, and how this affected the proportion was unknown.
+s31.1 (starts at 35:37). We named our limits openly. First, the pregnancy checkbox missed 38.2 percent of confirmed pregnancies in a four-state validation study by Catalano and colleagues, so our cohort did not include every pregnancy-associated violent death, and how this affected the proportion was unknown.
 
-s31.2 (starts at 35:58). Second, narratives described partner violence only when investigators learned of it and wrote it down, so our estimate was more likely an underestimate than an overestimate.
+s31.2 (starts at 35:59). Second, narratives described partner violence only when investigators learned of it and wrote it down, so our estimate was more likely an underestimate than an overestimate.
 
-s31.3 (starts at 36:11). Third, agreement between our two readings fell short of our target, although counting uncertain readings as related changed the estimate by less than 3 percentage points.
+s31.3 (starts at 36:12). Third, agreement between our two readings fell short of our target, although counting uncertain readings as related changed the estimate by less than 3 percentage points.
 
-s31.4 (starts at 36:24). Fourth, the 211 deaths without known circumstances were left out of the primary estimate, which therefore describes the deaths with known circumstances.
+s31.4 (starts at 36:26). Fourth, the 211 deaths without known circumstances were left out of the primary estimate, which therefore describes the deaths with known circumstances.
 
-s31.5 (starts at 36:36). Fifth, protecting confidentiality prevented estimates for all homicides, for all suicides, and for racial and ethnic groups, which limited what we could say about disparities. With a cohort of this size, the rules that protect the people in these records meant that many of the breakdowns and sensitivity analyses we had planned could not be published, a lesson that shaped how we designed our next study.
+s31.5 (starts at 36:37). Fifth, protecting confidentiality prevented estimates for all homicides, for all suicides, and for racial and ethnic groups, which limited what we could say about disparities. With a cohort of this size, the rules that protect the people in these records meant that many of the breakdowns and sensitivity analyses we had planned could not be published, a lesson that shaped how we designed our next study.
 
-s31.6 (starts at 37:05). Sixth, the individual 2023 test values were withheld, and the cross-validated metrics described the model-building procedure rather than the single locked model.
+s31.6 (starts at 37:06). Sixth, the individual 2023 test values were withheld, and the cross-validated metrics described the model-building procedure rather than the single locked model.
 
-s31.7 (starts at 37:17). Finally, a cross-sectional design restricted to deaths allowed only descriptive associations.
+s31.7 (starts at 37:18). Finally, a cross-sectional design restricted to deaths allowed only descriptive associations.
 
 Source line on screen: Manuscript, Limitations
 
@@ -500,13 +500,13 @@ Source line on screen: Manuscript, Limitations
 
 *What is next*
 
-s32.1 (starts at 37:25). We prespecified an extension that would add pregnancies identified in the narratives of decedents whose checkbox was not marked. It was not yet complete when we finished this analysis, and we planned to report it separately.
+s32.1 (starts at 37:26). We prespecified an extension that would add pregnancies identified in the narratives of decedents whose checkbox was not marked. It was not yet complete when we finished this analysis, and we planned to report it separately.
 
-s32.2 (starts at 37:41). That question led to our next study. In a proposal to the National Institutes of Health, we planned to measure how many pregnancies the checkbox misses among female decedents of reproductive age, by reading the same kind of narratives, and to test the classifier in a better way.
+s32.2 (starts at 37:42). That question led to our next study. In a proposal to the National Institutes of Health, we planned to measure how many pregnancies the checkbox misses among female decedents of reproductive age, by reading the same kind of narratives, and to test the classifier in a better way.
 
-s32.3 (starts at 38:00). Before computing any estimate, we registered our analysis plan on the Open Science Framework, and we listed every departure from it in the supplement to our manuscript.
+s32.3 (starts at 38:01). Before computing any estimate, we registered our analysis plan on the Open Science Framework, and we listed every departure from it in the supplement to our manuscript.
 
-s32.4 (starts at 38:12). We planned to deposit the analysis code in the study's GitHub repository with synthetic example data, because NVDRS records were available only to approved researchers under a data sharing agreement, and to link the manuscript there once it was published.
+s32.4 (starts at 38:14). We planned to deposit the analysis code in the study's GitHub repository with synthetic example data, because NVDRS records were available only to approved researchers under a data sharing agreement, and to link the manuscript there once it was published.
 
 Source line on screen: Manuscript, Methods, Limitations and Data Sharing Statement; Supplement 1, eTable 1; R03 proposal to NIH, 2026
 
@@ -514,13 +514,13 @@ Source line on screen: Manuscript, Methods, Limitations and Data Sharing Stateme
 
 *What is next: a better test*
 
-s32b.1 (starts at 38:31). In this study, we held out the deaths of 2023 for one final test. But that year held few coded deaths, so its individual results could not even be shown. In our next study, we changed the plan.
+s32b.1 (starts at 38:32). In this study, we held out the deaths of 2023 for one final test. But that year held few coded deaths, so its individual results could not even be shown. In our next study, we changed the plan.
 
-s32b.2 (starts at 38:47). We planned to divide all the coded records into folds, train the classifier on all folds but one, test it on the one left out, and rotate, so that every coded record serves once as a test case. Every choice the classifier depends on would be made inside the training folds, never by looking at test results.
+s32b.2 (starts at 38:48). We planned to divide all the coded records into folds, train the classifier on all folds but one, test it on the one left out, and rotate, so that every coded record serves once as a test case. Every choice the classifier depends on would be made inside the training folds, never by looking at test results.
 
-s32b.3 (starts at 39:10). Because the coded records form a stratified sample, we planned to weight the test results by each record's chance of being read, so that the reported performance describes all records and not only the ones we read.
+s32b.3 (starts at 39:11). Because the coded records form a stratified sample, we planned to weight the test results by each record's chance of being read, so that the reported performance describes all records and not only the ones we read.
 
-s32b.4 (starts at 39:25). And because few cases fall in each group, we planned to name three comparisons in advance, describe the rest, and report a comparison as indeterminate where the data cannot support it.
+s32b.4 (starts at 39:26). And because few cases fall in each group, we planned to name three comparisons in advance, describe the rest, and report a comparison as indeterminate where the data cannot support it.
 
 Source line on screen: R03 proposal to the National Institutes of Health, Research Strategy, 2026
 
@@ -528,7 +528,7 @@ Source line on screen: R03 proposal to the National Institutes of Health, Resear
 
 *References*
 
-s32r.1 (starts at 39:39). The studies we cited in this video are listed here and on the next screen, with their full references.
+s32r.1 (starts at 39:40). The studies we cited in this video are listed here and on the next screen, with their full references.
 
 Source line on screen: Full references, with the DOI where one exists
 
@@ -536,7 +536,7 @@ Source line on screen: Full references, with the DOI where one exists
 
 *References*
 
-s32s.1 (starts at 39:47). The list of references continues here.
+s32s.1 (starts at 39:48). The list of references continues here.
 
 Source line on screen: Full references, with the DOI where one exists
 
@@ -544,10 +544,10 @@ Source line on screen: Full references, with the DOI where one exists
 
 *Credits*
 
-s33.1 (starts at 39:50). This study was carried out by Mario Morales, Egoitz Laparra, and Maeve Wallace, at the University of Arizona.
+s33.1 (starts at 39:52). This study was carried out by Mario Morales, Egoitz Laparra, and Maeve Wallace, at the University of Arizona.
 
-s33.2 (starts at 39:59). We used the NVDRS Restricted Access Database, obtained from the Centers for Disease Control and Prevention under a data sharing agreement. The University of Arizona Institutional Review Board determined that the analysis was not human subjects research.
+s33.2 (starts at 40:01). We used the NVDRS Restricted Access Database, obtained from the Centers for Disease Control and Prevention under a data sharing agreement. The University of Arizona Institutional Review Board determined that the analysis was not human subjects research.
 
-s33.3 (starts at 40:19). The work was supported by the Eunice Kennedy Shriver National Institute of Child Health and Human Development, award 2R01HD096070, with Dr. Wallace as principal investigator. Thank you for watching.
+s33.3 (starts at 40:20). The work was supported by the Eunice Kennedy Shriver National Institute of Child Health and Human Development, award 2R01HD096070, with Dr. Wallace as principal investigator. Thank you for watching.
 
 Source line on screen: Manuscript, title page and Article Information
