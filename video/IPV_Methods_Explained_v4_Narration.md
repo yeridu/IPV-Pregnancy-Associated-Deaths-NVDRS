@@ -500,7 +500,7 @@ Source line on screen: Manuscript, Limitations
 
 *What is next*
 
-s32.1 (starts at 37:26). We prespecified an extension that would add pregnancies identified in the narratives of decedents whose checkbox was not marked. It was not yet complete when we finished this analysis, and we planned to report it separately.
+s32.1 (starts at 37:26). We registered an extension that would have added pregnancies identified in the narratives of decedents whose checkbox was not marked. We did not carry it out, because those deaths were not coded for partner violence.
 
 s32.2 (starts at 37:42). That question led to our next study. In a proposal to the National Institutes of Health, we planned to measure how many pregnancies the checkbox misses among female decedents of reproductive age, by reading the same kind of narratives, and to test the classifier in a better way.
 

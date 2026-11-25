@@ -500,13 +500,13 @@ Fuente en pantalla: Manuscrito, Limitaciones
 
 *Qué sigue*
 
-s32.1 (empieza en 39:44). Preespecificamos una extensión que agregaría los embarazos identificados en las narrativas de fallecidas cuya casilla no se marcó. Aún no estaba completa cuando terminamos este análisis, y planeamos reportarla por separado.
+s32.1 (empieza en 39:44). Registramos una extensión que habría agregado los embarazos identificados en las narrativas de fallecidas cuya casilla no se marcó. No la llevamos a cabo, porque esas muertes no se codificaron para violencia de pareja.
 
-s32.2 (empieza en 40:00). Esa pregunta llevó a nuestro siguiente estudio. En una propuesta a los Institutos Nacionales de Salud, planeamos medir cuántos embarazos no registra la casilla entre las mujeres fallecidas en edad reproductiva, leyendo el mismo tipo de narrativas, y probar el clasificador de una mejor manera.
+s32.2 (empieza en 39:59). Esa pregunta llevó a nuestro siguiente estudio. En una propuesta a los Institutos Nacionales de Salud, planeamos medir cuántos embarazos no registra la casilla entre las mujeres fallecidas en edad reproductiva, leyendo el mismo tipo de narrativas, y probar el clasificador de una mejor manera.
 
-s32.3 (empieza en 40:20). Antes de calcular cualquier estimación, registramos nuestro plan de análisis en Open Science Framework, y enumeramos cada desviación de él en el suplemento de nuestro manuscrito.
+s32.3 (empieza en 40:19). Antes de calcular cualquier estimación, registramos nuestro plan de análisis en Open Science Framework, y enumeramos cada desviación de él en el suplemento de nuestro manuscrito.
 
-s32.4 (empieza en 40:32). Planeamos depositar el código del análisis en el repositorio del estudio en GitHub con datos de ejemplo sintéticos, porque los registros de NVDRS solo estaban disponibles para investigadores aprobados mediante un acuerdo de intercambio de datos, y enlazar ahí el manuscrito una vez que se publicara.
+s32.4 (empieza en 40:31). Planeamos depositar el código del análisis en el repositorio del estudio en GitHub con datos de ejemplo sintéticos, porque los registros de NVDRS solo estaban disponibles para investigadores aprobados mediante un acuerdo de intercambio de datos, y enlazar ahí el manuscrito una vez que se publicara.
 
 Fuente en pantalla: Manuscrito, Métodos, Limitaciones y Declaración de Intercambio de Datos; Suplemento 1, eTabla 1; propuesta R03 a los NIH, 2026
 
@@ -514,13 +514,13 @@ Fuente en pantalla: Manuscrito, Métodos, Limitaciones y Declaración de Interca
 
 *Qué sigue: una mejor prueba*
 
-s32b.1 (empieza en 40:52). En este estudio, reservamos las muertes de 2023 para una sola prueba final. Pero ese año tenía pocas muertes codificadas, así que sus resultados individuales ni siquiera pudieron mostrarse. En nuestro siguiente estudio, cambiamos el plan.
+s32b.1 (empieza en 40:51). En este estudio, reservamos las muertes de 2023 para una sola prueba final. Pero ese año tenía pocas muertes codificadas, así que sus resultados individuales ni siquiera pudieron mostrarse. En nuestro siguiente estudio, cambiamos el plan.
 
-s32b.2 (empieza en 41:11). Planeamos dividir todos los registros codificados en pliegues, entrenar el clasificador con todos los pliegues menos uno, probarlo con el que quede fuera y rotar, para que cada registro codificado sirva una vez como caso de prueba. Cada decisión de la que depende el clasificador se tomaría dentro de los pliegues de entrenamiento, nunca mirando los resultados de la prueba.
+s32b.2 (empieza en 41:10). Planeamos dividir todos los registros codificados en pliegues, entrenar el clasificador con todos los pliegues menos uno, probarlo con el que quede fuera y rotar, para que cada registro codificado sirva una vez como caso de prueba. Cada decisión de la que depende el clasificador se tomaría dentro de los pliegues de entrenamiento, nunca mirando los resultados de la prueba.
 
 s32b.3 (empieza en 41:35). Como los registros codificados forman una muestra estratificada, planeamos ponderar los resultados de la prueba por la probabilidad de cada registro de ser leído, para que el desempeño reportado describa todos los registros y no solo los que leímos.
 
-s32b.4 (empieza en 41:52). Y como en cada grupo de comparación caen pocos casos, planeamos especificar tres comparaciones de antemano, describir el resto y reportar una comparación como indeterminada cuando los datos no la sostengan.
+s32b.4 (empieza en 41:51). Y como en cada grupo de comparación caen pocos casos, planeamos especificar tres comparaciones de antemano, describir el resto y reportar una comparación como indeterminada cuando los datos no la sostengan.
 
 Fuente en pantalla: Propuesta R03 a los Institutos Nacionales de Salud, Estrategia de Investigación, 2026
 
@@ -536,7 +536,7 @@ Fuente en pantalla: Referencias completas, en su idioma original, con el DOI cua
 
 *Referencias*
 
-s32s.1 (empieza en 42:16). La lista de referencias continúa aquí.
+s32s.1 (empieza en 42:15). La lista de referencias continúa aquí.
 
 Fuente en pantalla: Referencias completas, en su idioma original, con el DOI cuando existe
 
@@ -544,10 +544,10 @@ Fuente en pantalla: Referencias completas, en su idioma original, con el DOI cua
 
 *Créditos*
 
-s33.1 (empieza en 42:20). Este estudio lo realizaron Mario Morales, Egoitz Laparra y Maeve Wallace, en la Universidad de Arizona.
+s33.1 (empieza en 42:19). Este estudio lo realizaron Mario Morales, Egoitz Laparra y Maeve Wallace, en la Universidad de Arizona.
 
 s33.2 (empieza en 42:28). Usamos la base de datos de acceso restringido de NVDRS, obtenida de los Centros para el Control y la Prevención de Enfermedades mediante un acuerdo de intercambio de datos. La Junta de Revisión Institucional de la Universidad de Arizona determinó que el análisis no era investigación con seres humanos.
 
-s33.3 (empieza en 42:49). El trabajo recibió apoyo del Eunice Kennedy Shriver National Institute of Child Health and Human Development, subvención 2R01HD096070, con la Dra. Wallace como investigadora principal. Gracias por ver este video.
+s33.3 (empieza en 42:48). El trabajo recibió apoyo del Eunice Kennedy Shriver National Institute of Child Health and Human Development, subvención 2R01HD096070, con la Dra. Wallace como investigadora principal. Gracias por ver este video.
 
 Fuente en pantalla: Manuscrito, portada e información del artículo
